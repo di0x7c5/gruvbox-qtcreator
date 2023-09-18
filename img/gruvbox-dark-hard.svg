@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg viewBox='0 0 800 300' xmlns='http://www.w3.org/2000/svg'>
+  <g transform='translate(0,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#cc241d' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>red</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#cc241d</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>204</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>36</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>29</text>
+  </g>
+  <g transform='translate(100,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#98971a' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>green</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#98971a</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>152</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>151</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>26</text>
+  </g>
+  <g transform='translate(200,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#d79921' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>yellow</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#d79921</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>215</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>153</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>33</text>
+  </g>
+  <g transform='translate(300,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#458588' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>blue</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#458588</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>69</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>133</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>136</text>
+  </g>
+  <g transform='translate(400,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#b16286' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>purple</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#b16286</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>177</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>98</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>134</text>
+  </g>
+  <g transform='translate(500,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#689d6a' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>aqua</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#689d6a</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>104</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>157</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>106</text>
+  </g>
+  <g transform='translate(600,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#d65d0e' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>orange</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#d65d0e</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>214</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>93</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>14</text>
+  </g>
+  <g transform='translate(700,0)'>
+    <rect x='0' y='0' width='100' height='75' fill='#928374' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>gray</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#928374</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>146</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>131</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>116</text>
+  </g>
+  <g transform='translate(0,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#fb4934' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>dimRed</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#fb4934</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>251</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>73</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>52</text>
+  </g>
+  <g transform='translate(100,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#b8bb26' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>dimGreen</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#b8bb26</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>184</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>187</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>38</text>
+  </g>
+  <g transform='translate(200,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#fabd2f' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>dimYellow</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#fabd2f</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>250</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>189</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>47</text>
+  </g>
+  <g transform='translate(300,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#83a598' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>dimBlue</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#83a598</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>131</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>165</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>152</text>
+  </g>
+  <g transform='translate(400,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#d3869b' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>dimPurple</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#d3869b</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>211</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>134</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>155</text>
+  </g>
+  <g transform='translate(500,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#8ec07c' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>dimAqua</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#8ec07c</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>142</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>192</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>124</text>
+  </g>
+  <g transform='translate(600,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#fe8019' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>dimOrange</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#fe8019</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>254</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>128</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>25</text>
+  </g>
+  <g transform='translate(700,75)'>
+    <rect x='0' y='0' width='100' height='75' fill='#a89984' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>dimGray</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#a89984</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>168</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>153</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>132</text>
+  </g>
+  <g transform='translate(0,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#1d2021' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#1d2021</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>29</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>32</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>33</text>
+  </g>
+  <g transform='translate(100,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#282828' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg0</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#282828</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>40</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>40</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>40</text>
+  </g>
+  <g transform='translate(200,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#3c3836' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg1</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#3c3836</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>60</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>56</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>54</text>
+  </g>
+  <g transform='translate(300,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#504945' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg2</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#504945</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>80</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>73</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>69</text>
+  </g>
+  <g transform='translate(400,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#665c54' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg3</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#665c54</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>102</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>92</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>84</text>
+  </g>
+  <g transform='translate(500,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#7c6f64' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg4</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#7c6f64</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>124</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>111</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>100</text>
+  </g>
+  <g transform='translate(600,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#32302f' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg0_s</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#32302f</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>50</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>48</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>47</text>
+  </g>
+  <g transform='translate(700,150)'>
+    <rect x='0' y='0' width='100' height='75' fill='#1d2021' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#ffffff' text-anchor='middle'>bg0_h</text>
+    <text x='50' y='60' font-size='8' fill='#ffffff' text-anchor='middle'>#1d2021</text>
+    <text x='5' y='12' font-size='8' fill='#ffffff' text-anchor='start'>29</text>
+    <text x='50' y='12' font-size='8' fill='#ffffff' text-anchor='middle'>32</text>
+    <text x='95' y='12' font-size='8' fill='#ffffff' text-anchor='end'>33</text>
+  </g>
+  <g transform='translate(0,225)'>
+    <rect x='0' y='0' width='100' height='75' fill='#ebdbb2' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>fg</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#ebdbb2</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>235</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>219</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>178</text>
+  </g>
+  <g transform='translate(100,225)'>
+    <rect x='0' y='0' width='100' height='75' fill='#fbf1c7' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>fg0</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#fbf1c7</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>251</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>241</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>199</text>
+  </g>
+  <g transform='translate(200,225)'>
+    <rect x='0' y='0' width='100' height='75' fill='#ebdbb2' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>fg1</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#ebdbb2</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>235</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>219</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>178</text>
+  </g>
+  <g transform='translate(300,225)'>
+    <rect x='0' y='0' width='100' height='75' fill='#d5c4a1' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>fg2</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#d5c4a1</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>213</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>196</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>161</text>
+  </g>
+  <g transform='translate(400,225)'>
+    <rect x='0' y='0' width='100' height='75' fill='#bdae93' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>fg3</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#bdae93</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>189</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>174</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>147</text>
+  </g>
+  <g transform='translate(500,225)'>
+    <rect x='0' y='0' width='100' height='75' fill='#a89984' />
+    <rect x='0' y='70' width='100' height='5' fill='#000000' fill-opacity='0.25' />
+    <text x='50' y='42.7' font-size='18' fill='#000000' text-anchor='middle'>fg4</text>
+    <text x='50' y='60' font-size='8' fill='#000000' text-anchor='middle'>#a89984</text>
+    <text x='5' y='12' font-size='8' fill='#000000' text-anchor='start'>168</text>
+    <text x='50' y='12' font-size='8' fill='#000000' text-anchor='middle'>153</text>
+    <text x='95' y='12' font-size='8' fill='#000000' text-anchor='end'>132</text>
+  </g>
+  <style>
+    <![CDATA[
+      text {
+        font-family: Roboto Condensed;
+        fill-opacity: 0.70
+      }
+    ]]>
+  </style>
+</svg>
