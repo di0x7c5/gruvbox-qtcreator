@@ -20,7 +20,6 @@ This project is adaptation of [gruvbox](https://github.com/morhetz/gruvbox) auth
 
 ### Light mode
 
-
 ![gruvbox-light-medium-palette](img/gruvbox-light-medium.svg)
 
 ## Contrast options
@@ -29,8 +28,18 @@ This project is adaptation of [gruvbox](https://github.com/morhetz/gruvbox) auth
 
 ## Installation
 
-1. Copy files from `theme` folder to `/usr/share/qtcreator/themes`:
-1. Install files from `styles` folder to `/usr/share/qtcreator/styles`.
+**Makefile**
+
+Use makefile `install` rule to install all files:
+
+    make install
+
+Rule required use of `sudo` so prompt root password will be necessary.
+
+**Manual**
+
+1. Copy files from `theme` folder to `/usr/share/qtcreator/themes`.
+1. Copy files from `styles` folder to `/usr/share/qtcreator/styles`.
 
 ## Inspirations
 
